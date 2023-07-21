@@ -1,16 +1,14 @@
-### Hi there 👋
+## Olá! Eu sou Victor Nascimento 👋
 
-<!--
-**AntVictorBN/AntVictorBN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍🎓 Sou graduado em Licencitura em Matemática;
+- ✍️ Gosto da pesquisa em matemática, com enfâse em otimização, e em métodos númericos que são utilizados para resolver esse tipos de problemas de otimização;
+- 🧑‍💻 Para a implementação e a execução do algortimo desse tipo de métodos númericos, eu utilizo a linguagem de programação Python.
 
-Here are some ideas to get you started:
+![AntVictorBN GitHub stats](https://github-readme-stats.vercel.app/api?username=AntVictorBN&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias que eu uso no meu dia
+
+![image](https://github.com/AntVictorBN/AntVictorBN/assets/140107761/f4845c36-780f-45f6-9b97-976a1536c47c)
+
+![image](https://github.com/AntVictorBN/AntVictorBN/assets/140107761/c659ff47-e8b4-4965-8d5c-a7042c278120)
+
