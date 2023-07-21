@@ -8,7 +8,7 @@
 
 ### Tecnologias que eu uso no meu dia
 
-![image](https://github.com/AntVictorBN/AntVictorBN/assets/140107761/f4845c36-780f-45f6-9b97-976a1536c47c)
-
-![image](https://github.com/AntVictorBN/AntVictorBN/assets/140107761/c659ff47-e8b4-4965-8d5c-a7042c278120)
+<img src="https://github.com/AntVictorBN/AntVictorBN/assets/140107761/f4845c36-780f-45f6-9b97-976a1536c47c)https://github.com/AntVictorBN/AntVictorBN/assets/140107761/f4845c36-780f-45f6-9b97-976a1536c47c" width="135">
+<img src="https://github.com/AntVictorBN/AntVictorBN/assets/140107761/489477db-9838-42a3-b347-ef3c570f190d" width="110">
+<img src="https://github.com/AntVictorBN/AntVictorBN/assets/140107761/6f15227a-9266-4a26-8261-1fcc0ad4ac3d" width="90">
 
