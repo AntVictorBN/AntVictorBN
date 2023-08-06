@@ -1,7 +1,7 @@
 ## Olá! Eu sou Victor Nascimento 👋
 
 - 👨‍🎓 Sou graduado em Licencitura em Matemática;
-- ✍️ Gosto da pesquisa em matemática, com enfâse em otimização, e em métodos númericos que são utilizados para resolver esse tipos de problemas de otimização;
+- ✍️ Gosto de pesquisa em matemática, com enfâse em otimização, e em métodos númericos que são utilizados para resolver problemas de otimização não linear;
 - 🧑‍💻 Para a implementação e a execução do algortimo desse tipo de métodos númericos, eu utilizo a linguagem de programação Python.
 
 ![AntVictorBN GitHub stats](https://github-readme-stats.vercel.app/api?username=AntVictorBN&show_icons=true&theme=radical)
